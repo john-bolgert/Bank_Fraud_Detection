@@ -13,7 +13,7 @@
 
 -	Step 5: to visualize the results run the Results_Vizualizations.ipynb file make sure you have the csv file alll_vals-10-31-2023-extra-drift.csv (results from the simulation) in the same directory
 
-Environment used
+### <ins>Environment used</ins>
 
 -	Anaconda and jupyter notebooks where used to process the code
 -	Data Files included: raw.csv (base data used only in model exploration and partially in the simulation)

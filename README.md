@@ -1,6 +1,6 @@
 ## As part of a captone project during my time at DePaul, we developed a self-adjusting Fraud Detection System (FDS). The three main problems we focused on in this project are concept drift, class imbalance, and performance measurement. Please see uploaded deck and report going into complete background and analysis on the methods deployed.
 
-### <ins>UBelow are the steps to successfully running the code from our project.2</ins>
+### <ins>Below are the steps to successfully running the code from our project.</ins>
 
 
 Step 1: Please install any packages you do not have from the requirements document.
